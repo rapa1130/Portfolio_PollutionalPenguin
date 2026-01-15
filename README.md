@@ -1,3 +1,11 @@
+
+<br>
+
+>이 레파지토리는 포트폴리오용으로 제작되었고 유료 에셋이 제거되어 있습니다
+
+<br>
+
+
 # 오염 펭귄
 <img width="2121" height="1206" alt="image" src="https://github.com/user-attachments/assets/035317e5-61ee-412f-95ba-3e107c8df944" />
 
